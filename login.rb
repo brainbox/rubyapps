@@ -1,3 +1,11 @@
+word = "in a galaxy far, far away"
+
+bog = word.delete "aeiou"
+
+puts bog
+
+
+
 puts 1.0 + 2.0
 puts 1 + 2
 puts 1 / 2

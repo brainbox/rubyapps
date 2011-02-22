@@ -1,0 +1,7 @@
+cities = %w{lagos abuja port aba}
+
+puts cities[2]
+puts ''
+cities.each do |t|
+puts "#{t}"
+end
